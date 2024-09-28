@@ -1,0 +1,11 @@
+interdigital
+basidigital
+cubitodigital
+humerodigital
+mediodigital
+polydigital
+postdigital
+predigital
+prestidigital
+radiodigital
+sexdigital

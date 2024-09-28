@@ -1,0 +1,17 @@
+restore
+bookstore
+drugstore
+instore
+astore
+bestore
+disrestore
+enstore
+fstore
+microstore
+nanostore
+overrestore
+overstore
+prestore
+substore
+unstore
+uprestore

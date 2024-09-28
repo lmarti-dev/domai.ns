@@ -1,0 +1,7 @@
+antiprime
+emprime
+imprime
+primoprime
+reprime
+supprime
+unprime

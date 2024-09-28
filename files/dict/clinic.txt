@@ -1,0 +1,12 @@
+monoclinic
+polyclinic
+triclinic
+aclinic
+diclinic
+goneoclinic
+isoclinic
+matroclinic
+patroclinic
+policlinic
+pseudomonoclinic
+psychoclinic

@@ -1,0 +1,8 @@
+unsafe
+failsafe
+vouchsafe
+ensafe
+firesafe
+matchsafe
+supersafe
+witsafe

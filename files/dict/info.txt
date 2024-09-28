@@ -1,0 +1,5 @@
+cuinfo
+gdinfo
+guinfo
+ldinfo
+loadinfo

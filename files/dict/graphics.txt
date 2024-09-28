@@ -1,0 +1,8 @@
+demographics
+geographics
+aerographics
+airgraphics
+diagraphics
+semigraphics
+telegraphics
+topographics

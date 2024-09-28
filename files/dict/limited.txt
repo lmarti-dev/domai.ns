@@ -1,0 +1,6 @@
+unlimited
+delimited
+bandlimited
+illimited
+prelimited
+undelimited

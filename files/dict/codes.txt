@@ -1,0 +1,7 @@
+encodes
+decodes
+balmarcodes
+lycodes
+microcodes
+recodes
+sarcodes

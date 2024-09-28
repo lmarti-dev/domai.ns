@@ -1,0 +1,9 @@
+postcards
+placards
+discards
+timecards
+bankcards
+filmcards
+flancards
+microcards
+scards

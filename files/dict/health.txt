@@ -1,0 +1,3 @@
+soulhealth
+subhealth
+unhealth

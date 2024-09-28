@@ -1,0 +1,7 @@
+bedoctor
+demidoctor
+paradoctor
+subdoctor
+superdoctor
+underdoctor
+undoctor

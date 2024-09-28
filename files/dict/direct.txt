@@ -1,0 +1,8 @@
+indirect
+redirect
+misdirect
+semidirect
+codirect
+predirect
+undirect
+unidirect

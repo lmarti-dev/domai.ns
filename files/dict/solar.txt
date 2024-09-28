@@ -1,0 +1,11 @@
+extrasolar
+lunisolar
+subsolar
+antisolar
+circumsolar
+nonsolar
+presolar
+supersolar
+suprasolar
+typhlosolar
+unsolar

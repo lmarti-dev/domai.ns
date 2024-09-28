@@ -1,0 +1,8 @@
+insecure
+unsecure
+assecure
+countersecure
+oversecure
+presecure
+resecure
+supersecure

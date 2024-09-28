@@ -1,0 +1,5 @@
+nonzero
+subzero
+alefzero
+alephzero
+genizero

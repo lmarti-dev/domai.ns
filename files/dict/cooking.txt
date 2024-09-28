@@ -1,0 +1,6 @@
+overcooking
+undercooking
+miscooking
+outcooking
+precooking
+recooking

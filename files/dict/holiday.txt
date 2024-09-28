@@ -1,0 +1,5 @@
+antiholiday
+preholiday
+proholiday
+semiholiday
+unholiday

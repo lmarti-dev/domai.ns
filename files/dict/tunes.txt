@@ -1,0 +1,7 @@
+fortunes
+misfortunes
+attunes
+importunes
+mistunes
+retunes
+untunes

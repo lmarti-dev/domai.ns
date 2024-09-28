@@ -1,0 +1,4 @@
+telephoto
+aerophoto
+radiophoto
+wirephoto

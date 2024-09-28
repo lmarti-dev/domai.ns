@@ -1,0 +1,8 @@
+supermarket
+aftermarket
+newmarket
+haymarket
+hypermarket
+nonmarket
+dismarket
+remarket

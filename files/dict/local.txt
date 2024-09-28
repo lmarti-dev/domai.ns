@@ -1,0 +1,11 @@
+nonlocal
+matrilocal
+interlocal
+patrilocal
+collocal
+illocal
+superlocal
+supralocal
+unlocal
+uxorilocal
+virilocal

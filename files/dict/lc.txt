@@ -1,0 +1,4 @@
+bisulc
+megotalc
+orichalc
+trisulc

@@ -1,0 +1,5 @@
+subadult
+demiadult
+nonadult
+preadult
+unadult

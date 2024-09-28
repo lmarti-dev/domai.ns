@@ -1,0 +1,10 @@
+subgroup
+regroup
+supergroup
+intergroup
+outgroup
+ingroup
+newsgroup
+semigroup
+intragroup
+aggroup

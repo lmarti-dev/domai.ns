@@ -1,0 +1,5 @@
+resupply
+oversupply
+undersupply
+presupply
+unsupply

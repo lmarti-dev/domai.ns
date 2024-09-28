@@ -1,0 +1,7 @@
+reopen
+atopen
+pyropen
+preopen
+semiopen
+stopen
+unopen

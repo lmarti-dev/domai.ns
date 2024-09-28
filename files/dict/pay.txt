@@ -1,0 +1,11 @@
+overpay
+prepay
+underpay
+corupay
+curupay
+deadpay
+mispay
+offpay
+outpay
+pilpay
+sompay

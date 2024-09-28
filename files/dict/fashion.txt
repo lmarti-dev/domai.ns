@@ -1,0 +1,7 @@
+refashion
+disfashion
+misfashion
+prefashion
+semifashion
+transfashion
+unfashion

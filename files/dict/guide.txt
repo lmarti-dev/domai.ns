@@ -1,0 +1,6 @@
+waveguide
+misguide
+illguide
+outguide
+preguide
+reguide

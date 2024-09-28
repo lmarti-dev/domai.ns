@@ -1,0 +1,5 @@
+multifamily
+subfamily
+superfamily
+nonfamily
+interfamily

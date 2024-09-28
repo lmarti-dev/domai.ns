@@ -1,0 +1,4 @@
+noncontact
+recontact
+precontact
+postcontact

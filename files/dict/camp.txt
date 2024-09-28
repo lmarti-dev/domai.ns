@@ -1,0 +1,8 @@
+decamp
+encamp
+autocamp
+discamp
+hippocamp
+incamp
+oilcamp
+uncamp

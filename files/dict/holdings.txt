@@ -1,0 +1,3 @@
+landholdings
+withholdings
+stockholdings

@@ -1,0 +1,11 @@
+multiparty
+intraparty
+biparty
+coparty
+interparty
+nonparty
+overparty
+pourparty
+purparty
+subparty
+unparty

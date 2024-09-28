@@ -1,0 +1,6 @@
+overexposed
+unexposed
+underexposed
+preexposed
+reexposed
+semiexposed

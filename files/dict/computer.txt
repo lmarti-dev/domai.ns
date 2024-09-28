@@ -1,0 +1,6 @@
+supercomputer
+microcomputer
+minicomputer
+multicomputer
+multimicrocomputer
+telecomputer

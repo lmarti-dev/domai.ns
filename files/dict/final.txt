@@ -1,0 +1,6 @@
+semifinal
+quarterfinal
+affinal
+cofinal
+prefinal
+pseudofinal

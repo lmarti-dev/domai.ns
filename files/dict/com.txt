@@ -1,0 +1,6 @@
+sitcom
+intercom
+syncom
+noncom
+nincom
+sercom
