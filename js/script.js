@@ -65,39 +65,39 @@ function setup_search() {
 
   search.addEventListener("keyup", function () {
     clearTimeout(typingTimer);
-    typingTimer = setTimeout(doneTyping, doneTypingInterval);
+    typingTimer = setTimeout(done_typing, doneTypingInterval);
   });
 
   search.addEventListener("keydown", function () {
     clearTimeout(typingTimer);
   });
 
-  async function doneTyping() {
+  async function done_typing() {
     let sv = search.value;
+    document.title = `Domains`;
     if (extensions_list.includes(sv) && sv != current_search_value) {
+      document.title = `Domains in .${sv} `;
       domains.innerHTML = "";
       current_search_value = sv;
       if (![...Object.keys(words)].includes(sv)) {
         words[[sv]] = await load_words(sv);
       }
-      matching = words[[sv]];
+      let matching = words[[sv]];
       if (matching.length == 0) {
-        domains.innerHTML = `<tr><td>No word ending in ${sv}</td></tr>`;
+        domains.innerHTML = `<li>No word ending in ${sv}</li>`;
       } else {
         for (ind in matching) {
-          let tr = document.createElement("tr");
+          let li = document.createElement("li");
           let item = `${matching[ind].slice(
             0,
             matching[ind].length - sv.length
           )}.${sv}`;
           url = `https://${item}`;
-          code = await dns_code(item);
-          tr.innerHTML = `<td><a href='${url}'>${item}</a></td><td>${code}</td>`;
+          li.innerHTML = `<a href='${url}'>${item}</a>`;
 
-          domains.appendChild(tr);
+          domains.appendChild(li);
         }
       }
-      document.title = `Domains in .${sv} `;
     }
   }
 }
